@@ -1,0 +1,75 @@
+/*Portrait Mobile Styles*/
+
+@media (min-width: 320px){
+
+.button{
+	display: none;
+}
+
+header{
+	padding: 20px 0px;
+}
+
+header img{
+  padding: 0px 0px 0px 30px;
+  height: 37px;
+  width: 100%;
+}
+
+.center{
+  display: block;
+  width: 100%;
+  padding: 28px 28px 15px 28px;
+  height: 350px;
+}
+
+.center p{
+  font-size: 12px;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  border: 1px solid #dddddd;
+  padding: 25px 35px;
+  line-height: 1.5em;
+}
+
+.short{
+	height: 250px;
+}
+
+.icons img{
+  width: 30px;
+  margin: 10px;
+}
+
+.footer{
+  display: block;
+  height: 50px;
+  background-color: #dddddd;
+  padding: 20px;
+  font-size: 10px;
+  text-align: center;
+  margin: auto;
+}
+
+
+
+
+}
+
+/* Landscape Mobile Styles*/
+
+@media (min-width: 550px){
+
+
+
+
+
+
+
+
+
+
+
+
+}
